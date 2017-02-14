@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="e5d6833f4f307200495501f18110c75e" sys_domain="global" table="x_93974_marketing_marketing_event" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-14 18:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>edd6833f4f307200495501f18110c760</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_93974_marketing_marketing_event" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">e5d6833f4f307200495501f18110c75e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">71e50bfb4f307200495501f18110c7b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-14 18:55:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-14 18:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9d6833f4f307200495501f18110c761</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_93974_marketing_marketing_event" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">e5d6833f4f307200495501f18110c75e</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">2dd6833f4f307200495501f18110c75d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-14 18:55:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_93974_marketing_marketing_event</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-14 18:55:43</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5d6833f4f307200495501f18110c75e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_93974_marketing_marketing_event</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Marketing Events Application" source="x_93974_marketing">3136eaf34fbc3200495501f18110c71c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events Application">3136eaf34fbc3200495501f18110c71c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e5d6833f4f307200495501f18110c75e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-14 18:55:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

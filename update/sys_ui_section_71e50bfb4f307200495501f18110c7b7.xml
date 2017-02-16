@@ -5,13 +5,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-14 18:55:44</sys_created_on>
-            <sys_id>e9d6833f4f307200495501f18110c77c</sys_id>
+            <sys_created_on>2017-02-15 19:04:27</sys_created_on>
+            <sys_id>4f6210504f413200495501f18110c7f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">71e50bfb4f307200495501f18110c7b7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-14 18:55:44</sys_updated_on>
+            <sys_updated_on>2017-02-15 19:04:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,83 +19,111 @@
             <element>budget</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-14 18:55:44</sys_created_on>
-            <sys_id>6dd6833f4f307200495501f18110c77c</sys_id>
+            <sys_created_on>2017-02-15 19:04:27</sys_created_on>
+            <sys_id>076210504f413200495501f18110c7f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">71e50bfb4f307200495501f18110c7b7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-14 18:55:44</sys_updated_on>
+            <sys_updated_on>2017-02-15 19:04:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>city</element>
+            <element>event_cost</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-14 18:55:44</sys_created_on>
-            <sys_id>edd6833f4f307200495501f18110c77c</sys_id>
+            <sys_created_on>2017-02-15 19:04:27</sys_created_on>
+            <sys_id>876210504f413200495501f18110c7f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">71e50bfb4f307200495501f18110c7b7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-14 18:55:44</sys_updated_on>
+            <sys_updated_on>2017-02-15 19:04:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>budget_remaining</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-15 19:04:27</sys_created_on>
+            <sys_id>0b6210504f413200495501f18110c7f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">71e50bfb4f307200495501f18110c7b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-15 19:04:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-14 18:55:44</sys_created_on>
-            <sys_id>61d6833f4f307200495501f18110c77d</sys_id>
+            <sys_created_on>2017-02-15 19:04:27</sys_created_on>
+            <sys_id>8b6210504f413200495501f18110c7f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">71e50bfb4f307200495501f18110c7b7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-14 18:55:44</sys_updated_on>
+            <sys_updated_on>2017-02-15 19:04:27</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>start_date</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-14 18:55:44</sys_created_on>
-            <sys_id>e1d6833f4f307200495501f18110c77d</sys_id>
+            <sys_created_on>2017-02-15 19:04:27</sys_created_on>
+            <sys_id>0f6210504f413200495501f18110c7f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">71e50bfb4f307200495501f18110c7b7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-14 18:55:44</sys_updated_on>
+            <sys_updated_on>2017-02-15 19:04:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>end_date</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-14 18:55:44</sys_created_on>
-            <sys_id>65d6833f4f307200495501f18110c77d</sys_id>
+            <sys_created_on>2017-02-15 19:04:27</sys_created_on>
+            <sys_id>8f6210504f413200495501f18110c7f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">71e50bfb4f307200495501f18110c7b7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-14 18:55:44</sys_updated_on>
+            <sys_updated_on>2017-02-15 19:04:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-15 19:04:27</sys_created_on>
+            <sys_id>036210504f413200495501f18110c7f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">71e50bfb4f307200495501f18110c7b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-15 19:04:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sponsor</element>
-            <position>6</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-14 18:55:44</sys_created_on>
-            <sys_id>e5d6833f4f307200495501f18110c77d</sys_id>
+            <sys_created_on>2017-02-15 19:04:27</sys_created_on>
+            <sys_id>836210504f413200495501f18110c7f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">71e50bfb4f307200495501f18110c7b7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-14 18:55:44</sys_updated_on>
+            <sys_updated_on>2017-02-15 19:04:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

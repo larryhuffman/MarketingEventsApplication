@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="number_of_attendees_registered" label="Attendees registered" language="en" table="x_93974_marketing_marketing_event">
+    <sys_documentation element="event_coordinator" label="Event coordinator" language="en" table="x_93974_marketing_marketing_event">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>number_of_attendees_registered</element>
+            <element>event_coordinator</element>
             <help/>
             <hint/>
-            <label>Attendees registered</label>
+            <label>Event coordinator</label>
             <language>en</language>
             <name>x_93974_marketing_marketing_event</name>
-            <plural>Attendees registered</plural>
+            <plural>Event coordinators</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-14 16:46:28</sys_created_on>
+            <sys_created_on>2017-02-21 20:16:31</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
-            <sys_id>98492e7f4ffc3200495501f18110c705</sys_id>
+            <sys_id>897c57c64f013200495501f18110c7e7</sys_id>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Attendees registered</sys_name>
+            <sys_name>Event coordinator</sys_name>
             <sys_package display_value="Marketing Events Application" source="x_93974_marketing">3136eaf34fbc3200495501f18110c71c</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Marketing Events Application">3136eaf34fbc3200495501f18110c71c</sys_scope>
-            <sys_update_name>sys_documentation_x_93974_marketing_marketing_event_number_of_attendees_registered_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_93974_marketing_marketing_event_event_coordinator_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-21 20:16:32</sys_updated_on>
+            <sys_updated_on>2017-02-22 20:58:57</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

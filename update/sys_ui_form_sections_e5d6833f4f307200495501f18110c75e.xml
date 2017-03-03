@@ -18,16 +18,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-14 18:55:43</sys_created_on>
+            <sys_created_on>2017-02-22 20:58:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e9d6833f4f307200495501f18110c761</sys_id>
+            <sys_id>20cf28e64f493200495501f18110c79b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_93974_marketing_marketing_event" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">e5d6833f4f307200495501f18110c75e</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">2dd6833f4f307200495501f18110c75d</sys_ui_section>
+            <sys_ui_section caption="Coordination" display_value="Coordination" name="x_93974_marketing_marketing_event" sys_domain="global" view="Default view">68cf28e64f493200495501f18110c78c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-14 18:55:43</sys_updated_on>
+            <sys_updated_on>2017-02-22 20:58:57</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_93974_marketing_marketing_event</name>
